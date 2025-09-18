@@ -2,7 +2,7 @@
 var lienzo = document.getElementById("lienzo");
 var cd = lienzo.getContext("2d");
 
-function exhibirLineas() {
+function exhibirlineas() {
     console.log("exhibirLineas");
     var x = 0;
     while (x < 400) {
